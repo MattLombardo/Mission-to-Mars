@@ -1,0 +1,44 @@
+h1 {
+    font-weight:bold;
+    font-family: Arial;
+}
+h2 {
+    font-weight:bold;
+    font-family: Arial;
+}
+h3 {
+    font-family: Arial;
+    font-style: italic;
+}
+h4 {
+    font-weight:bold;
+    font-family: Arial;
+}
+#weather_box {
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    margin: 5px;
+}
+#section_headers {
+    font-family: Arial;
+}
+p {
+    font-family: Arial
+}
+table {
+    font-family: Arial
+}
+#hemi_header {
+    font-family: Arial;
+    text-align: center;
+}
+#hemi_box {
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    margin: 5px;
+}
+th, td {
+    padding: 2px;
+    text-align: left;
+    font-family: Arial;
+}
